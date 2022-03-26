@@ -1,0 +1,6 @@
+whene click on a poster of any row get the url of the movie
+
+1- trigger a function on click event and pass the movie name 
+2- get the url of that movie
+3- set the url in a state
+4- trigger the component
