@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/netflex-clone/static/css/main.89bc7f52.css",
+    "main.js": "/netflex-clone/static/js/main.385f3754.js",
+    "static/js/787.d3befce1.chunk.js": "/netflex-clone/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.jpg": "/netflex-clone/static/media/logo.8ecf90c901607ed1f5a3.jpg",
+    "index.html": "/netflex-clone/index.html",
+    "main.89bc7f52.css.map": "/netflex-clone/static/css/main.89bc7f52.css.map",
+    "main.385f3754.js.map": "/netflex-clone/static/js/main.385f3754.js.map",
+    "787.d3befce1.chunk.js.map": "/netflex-clone/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89bc7f52.css",
+    "static/js/main.385f3754.js"
+  ]
+}
